@@ -1,4 +1,4 @@
-# Workforce Intelligence Platform
+# WorkforceIQ
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 ![ML Engine](https://img.shields.io/badge/ML%20Engine-XGBoost%20%7C%20Scikit--Learn-FF6F00?style=for-the-badge)
 ![Database](https://img.shields.io/badge/Database-SQLite%20%7C%20PostgreSQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-[![CI](https://github.com/ChandraS0116/Workforce-Intelligence-Platform/actions/workflows/ci.yml/badge.svg)](https://github.com/ChandraS0116/Workforce-Intelligence-Platform/actions)
+[![CI](https://github.com/ChandraS0116/WorkforceIQ/actions/workflows/ci.yml/badge.svg)](https://github.com/ChandraS0116/WorkforceIQ/actions)
 
 **Enterprise AI Workforce Intelligence, Predictive Talent Capacity & Team Optimization System**
 
@@ -24,7 +24,7 @@
 
 ## 🌟 Overview
 
-The **Workforce Intelligence Platform** is an enterprise-grade decision-support ecosystem engineered for C-suite technology executives, resource directors, and engineering leadership.
+**WorkforceIQ** is an enterprise-grade decision-support ecosystem engineered for C-suite technology executives, resource directors, and engineering leadership.
 
 Unlike conventional HRIS software and static ERP spreadsheets that treat headcount as backward-looking administrative data, this platform operates as a **proactive predictive intelligence layer**. It continuously correlates employee proficiency vectors, historical collaboration chemistry, project delivery velocity, and burnout indicators. By leveraging machine learning models alongside an autonomous **Agent Mesh**, the system predicts institutional skill bottlenecks 12 weeks before they jeopardize roadmaps, simulates macro headcount attrition scenarios, and calculates mathematically optimized project staffing recommendations.
 
@@ -320,5 +320,5 @@ docker-compose up --build -d
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 **Sri Chandra Pappu**  
-*Creator & Lead Developer — Workforce Intelligence Platform*  
+*Creator & Lead Developer — WorkforceIQ*  
 [LinkedIn Profile](https://www.linkedin.com/in/chandrapappu1609)

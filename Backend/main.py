@@ -22,8 +22,8 @@ from api.routers import (
 )
 
 app = FastAPI(
-    title="AI Workforce Intelligence Platform API",
-    description="Premium Decision Support APIs for Enterprise IT Organizations",
+    title="WorkforceIQ API",
+    description="Enterprise Decision Support & Predictive Talent Intelligence APIs",
     version="1.0.0"
 )
 
@@ -55,6 +55,6 @@ app.include_router(agent_mesh.router)
 def health_check():
     return {
         "status": "online", 
-        "system": "AI Workforce Intelligence Platform",
+        "system": "WorkforceIQ",
         "mode": "Decision Support"
     }
